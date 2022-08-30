@@ -1,1 +1,2 @@
-My first readme
+work smarter not harder
+
